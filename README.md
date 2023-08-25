@@ -1,7 +1,5 @@
-# My-Initial-Project
-TinDog is a responsive and stylish landing page for a fictional dog dating app. It's designed to showcase HTML, CSS, and image design skills. This project features a user-friendly interface with engaging content, including testimonials, pricing plans, and a call to action for downloads. Explore the world of canine companionship with TinDog!
+# TinDog-App
 # TinDog
-
 
 TinDog is a fun and playful website that helps you find the perfect match for your beloved pet. Whether you have a playful pup, a cuddly cat, or any other furry friend, TinDog is here to make pet matchmaking a breeze.
 
@@ -52,8 +50,7 @@ TinDog has been featured in top tech publications, including TechCrunch, TNW, Bu
 
 Find the true love of your dog's life today. Download TinDog now!
 
-- [Download on the App Store](#)
-- [Get it on Google Play](#)
+
 
 ## Contact
 
