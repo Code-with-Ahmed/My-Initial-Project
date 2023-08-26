@@ -65,8 +65,8 @@ If you have any questions, feel free to reach out to us:
 
 © Copyright 2023 TinDog
 
-![TinDog]([[[/images/simon-game-screenshot.png](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Head.png?raw=true)https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Head.png?raw=true](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Head.png?raw=true))
-![TinDog]([/images/simon-game-screenshot.png](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Head.png?raw=true)https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Head.png?raw=true](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Section2.PNG?raw=true)https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Section2.PNG?raw=true)
+![TinDog](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Header.PNG?raw=true)
+![TinDog](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Section2.PNG?raw=true)
 ![TinDog](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Section-3.PNG?raw=true
 )
 ![TinDog](https://github.com/Code-with-Ahmed/TinDog-App/blob/main/TinDog%20APP%20ScreenShot/Section-4.PNG?raw=true
